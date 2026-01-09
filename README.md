@@ -12,4 +12,5 @@ It demonstrates physics concepts such as velocity, acceleration, and forces.
 - Adjustable parameters
 
 ## Author
-Lucas Teixeira
+Lucas Teixeira Cruz
+
